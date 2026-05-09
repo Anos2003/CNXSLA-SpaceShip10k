@@ -47,7 +47,7 @@ Người chơi phải chiến đấu, sống sót và tìm đường quay trở 
 
 <img width="100%" src="https://github.com/user-attachments/assets/demo1.png"><img width="100%" src="https://github.com/user-attachments/assets/demo2.png">
 
-*Video demo: [Xem video gameplay](https://github.com/user-attachments/assets/demo_video.mp4)*
+*Video demo: [Xem video gameplay](https://drive.google.com/file/d/1O6J_LIKSlvcKQLEFiB_6ogn2hGoPeJ3p/view?usp=sharing)*
 
 ---
 
