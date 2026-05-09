@@ -94,17 +94,17 @@ Mục tiêu: Sống sót qua các wave kẻ địch, đạt điểm cao nhất v
 
 ```
 CNXSLA-SpaceShip10k/
-├── main.py              # File chính chạy game
-├── entities.py          # Định nghĩa các entity (Player, Enemy, Bullet, Item, etc.)
-├── settings.py          # Cấu hình game (kích thước màn hình, màu sắc, etc.)
-├── vision.py            # Xử lý nhận diện cử chỉ tay với MediaPipe
-├── ui.py                # Giao diện người dùng (menu, HUD, etc.)
-├── audio/               # Thư mục chứa nhạc nền và hiệu ứng âm thanh
-├── graphics/            # Thư mục chứa hình ảnh và tài nguyên đồ họa
-├── highscore.txt        # File lưu điểm cao nhất
-├── stats.json           # File lưu thống kê game
-├── requirements.txt     # Danh sách thư viện cần thiết
-└── README.md            # Tài liệu hướng dẫn
+├── 📄main.py              # File chính chạy game
+├── 📄entities.py          # Định nghĩa các entity (Player, Enemy, Bullet, Item, etc.)
+├── 📄settings.py          # Cấu hình game (kích thước màn hình, màu sắc, etc.)
+├── 📄vision.py            # Xử lý nhận diện cử chỉ tay với MediaPipe
+├── 📄ui.py                # Giao diện người dùng (menu, HUD, etc.)
+├── 📁audio/               # Thư mục chứa nhạc nền và hiệu ứng âm thanh
+├── 📁graphics/            # Thư mục chứa hình ảnh và tài nguyên đồ họa
+├── 📄highscore.txt        # File lưu điểm cao nhất
+├── 📄stats.json           # File lưu thống kê game
+├── 📄requirements.txt     # Danh sách thư viện cần thiết
+└── 📄README.md            # Tài liệu hướng dẫn
 ```
 
 ---
